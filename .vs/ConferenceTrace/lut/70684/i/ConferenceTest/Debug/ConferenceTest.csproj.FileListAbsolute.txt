@@ -1,0 +1,12 @@
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\GenericTest1.GenericTest
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTest\bin\Debug\ConferenceTest.dll
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTest\Debug\ConferenceTest.csprojAssemblyReference.cache
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTest\Debug\ConferenceTest.csproj.CoreCompileInputs.cache
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTest\Debug\ConferenceTest.csproj.CopyComplete
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTest\Debug\ConferenceTest.dll

@@ -1,0 +1,6 @@
+D:\Project\ConferenceTrace\ConferenceTrace\bin\Debug\ConferenceTrace.exe.config
+D:\Project\ConferenceTrace\ConferenceTrace\bin\Debug\ConferenceTrace.exe
+D:\Project\ConferenceTrace\ConferenceTrace\bin\Debug\ConferenceTrace.pdb
+D:\Project\ConferenceTrace\ConferenceTrace\obj\Debug\ConferenceTrace.csproj.CoreCompileInputs.cache
+D:\Project\ConferenceTrace\ConferenceTrace\obj\Debug\ConferenceTrace.exe
+D:\Project\ConferenceTrace\ConferenceTrace\obj\Debug\ConferenceTrace.pdb

@@ -1,0 +1,6 @@
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTrace\bin\Debug\ConferenceTrace.exe.config
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\b\ConferenceTrace\bin\Debug\ConferenceTrace.exe
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTrace\Debug\ConferenceTrace.csprojAssemblyReference.cache
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTrace\Debug\ConferenceTrace.csproj.CoreCompileInputs.cache
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTrace\Debug\ConferenceTrace.csproj.CopyComplete
+D:\Project\ConferenceTrace\.vs\ConferenceTrace\lut\0\i\ConferenceTrace\Debug\ConferenceTrace.exe

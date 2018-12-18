@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<sessions>
+  <session name="morningsession">
+    <begin >9:00am</begin>
+    <end>12:00am</end>
+  </session>
+  <session name="afternsession">
+    <begin >13:00pm</begin>
+    <end>17:00pm</end>
+  </session>
+</sessions>
